@@ -1,0 +1,30 @@
+{
+  "name": "FizzBuzz",
+  "version": "1.0.0",
+  "description": "Fizz Buzz Challeneg with JS",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "testRun"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnNortz/FizzBuzzJava.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz",
+    "fizzbuzz",
+    "js",
+    "javascript"
+  ],
+  "author": "John Nortz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnNortz/FizzBuzzJava/issues"
+  },
+  "homepage": "https://github.com/JohnNortz/FizzBuzzJava",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
